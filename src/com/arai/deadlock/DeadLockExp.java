@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.epam.deadlock;
+package com.arai.deadlock;
 
 /**
  * @author Akansh_Rai

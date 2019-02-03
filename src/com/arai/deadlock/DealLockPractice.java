@@ -1,4 +1,4 @@
-package com.epam.deadlock;
+package com.arai.deadlock;
 public class DealLockPractice {
 	public static void main(String[] args) {
 		String resoucr1 = "RESOURCE_1";

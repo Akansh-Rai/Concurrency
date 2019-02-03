@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.epam.producerNConsumer;
+package com.arai.producerNConsumer;
 
 /**
  * @author Akansh_Rai
